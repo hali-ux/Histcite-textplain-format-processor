@@ -1,4 +1,4 @@
-# histcite_fileprocesser
+# histcite_fileprocesser（histcite文件处理程序）
 专门处理现在从webofscience下载的textplain文件，使其与histcite匹配，能够进行histcite分析
 import os
 import re
